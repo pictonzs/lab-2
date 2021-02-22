@@ -7,3 +7,7 @@ html {
   padding: 24px;
   background: #ffffff;
 }
+h1 {
+  font-family: Spartan, Georgia, "Times New Roman", sans-serif;
+  line-height: 42px;
+}
