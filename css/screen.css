@@ -5,9 +5,12 @@ html {
   font-size: 18px;
   line-height: 24px;
   padding: 24px;
-  background: #ffffff;
+  background: #FDEFB2;
 }
 h1 {
   font-family: Spartan, Georgia, "Times New Roman", sans-serif;
   line-height: 42px;
+}
+form {
+  background:#fde992;
 }
