@@ -17,6 +17,10 @@ form {
   background:#fde992;
   border:0.1666666666666667em solid #466d1e; /* 3 / 18 = 0.1666666666666667 */
 }
+legend{
+  font-size: 1.166666666666667em; /* 21 / 18 = 1.166666666666667 */
+  padding-bottom: 0.6666666666666667em; /* 12 / 18 = 0.6666666666666667 */
+}
 li {
   padding-bottom: 1em; /* 18 / 18 = 1 */
   list-style-type: none;
