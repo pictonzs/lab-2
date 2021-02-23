@@ -24,7 +24,7 @@ legend{
 li {
   padding-bottom: 1em; /* 18 / 18 = 1 */
   list-style-type: none;
-  padding-left: 0;
+  padding-left: 0.3888888888888889em; /* 7 / 18 = 0.3888888888888889 */
 }
 
 @media screen and (min-width: 565px) {
