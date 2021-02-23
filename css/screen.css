@@ -9,7 +9,9 @@ html {
 }
 h1 {
   font-family: Spartan, Georgia, "Times New Roman", sans-serif;
+  font-size: 36px;
   line-height: 42px;
+  padding-bottom: 6px;
 }
 form {
   background:#fde992;
