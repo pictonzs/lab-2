@@ -33,3 +33,10 @@ li {
   }
 }
 
+@media screen and (min-width:836px) {
+  html {
+    margin-left: 20%;
+    margin-right: 20%;
+  }
+
+}
