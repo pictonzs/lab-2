@@ -2,23 +2,23 @@
 
 html {
   font-family: Manrope, Georgia, "Times New Roman", sans-serif;
-  font-size: 18px;
-  line-height: 24px;
-  padding: 24px;
+  font-size: 1.125em; /* 18 / 16 = 1.125 */
+  line-height: 1.333333333333333em; /* 24 / 18 = 1.333333333333333 */
+  padding: 1.333333333333333em; /* 24 / 18 = 1.333333333333333 */
   background: #FDEFB2;
 }
 h1 {
   font-family: Spartan, Georgia, "Times New Roman", sans-serif;
-  font-size: 34px;
-  padding-top: 12px;
-  padding-bottom: 18px;
+  font-size: 1.888888888888889em; /* 34 / 18 = 1.888888888888889 */
+  padding-top: 0.3529411764705882em; /* 12 / 34 = 0.3529411764705882 */
+  padding-bottom: 0.5294117647058824em; /* 18 / 34 = 0.5294117647058824*/
 }
 form {
   background:#fde992;
-  border:3px solid #466d1e;
+  border:0.1666666666666667em solid #466d1e; /* 3 / 18 = 0.1666666666666667 */
 }
 li {
-  padding-bottom: 18px;
+  padding-bottom: 1em; /* 18 / 18 = 1 */
   list-style-type: none;
   padding-left: 0;
 }
