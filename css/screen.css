@@ -20,3 +20,16 @@ li {
   list-style-type: none;
   padding-left: 0;
 }
+
+@media screen and (min-width: 565px) {
+  html {
+    margin-left: 10%;
+    margin-right: 10%;
+  }
+
+  body {
+    display: flex;
+    flex-direction: column;
+  }
+}
+
